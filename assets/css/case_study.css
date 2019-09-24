@@ -117,6 +117,9 @@
   margin: 0 auto;
   width: 79.1%;
 }
+#solution .body1{
+  width: 80.83%;
+}
 #solution .body2{
   margin-top: 16px;
 }
@@ -277,12 +280,22 @@ table .caption{
   display: table-cell;
   width: auto;
 }
+#stories .body1{
+  margin: 0 auto 24px auto;
+  text-align: center;
+  width: 66.02%;
+}
 /* User Flows */
 #flows{
   background-color: #757575;
 }
 #flows h4, #flows h2{
   color: #FFFFFF;
+}
+#flows .body1{
+  color: #FFFFFF;
+  margin: 0 auto;
+  width: 66.10%;
 }
 #flows .body2{
   color: #FFFFFF;
@@ -316,6 +329,11 @@ table .caption{
 #wireframes .caption{
   margin-bottom: 24px;
 }
+#wireframes .body1{
+  margin: 0 auto;
+  padding-bottom: 16px;
+  width: 65.86%;
+}
 #wireframes .body2{
   margin-bottom: 32px;
   text-align: center;
@@ -333,6 +351,11 @@ table .caption{
   margin: 0 auto 24px auto;
   text-align: center;
 }
+#branding .body1{
+  margin: 0 auto 26px auto;
+  text-align: left;
+  width: 66.01%;
+}
 #branding .button{
   margin-top: 32px;
 }
@@ -345,6 +368,9 @@ table .caption{
   margin: 0 auto 40px auto;
   width: 250px;
 }
+#mood .body1{
+  width: 81.44%;
+}
 #mood .body2{
   text-align: center;
 }
@@ -353,6 +379,9 @@ table .caption{
   display: block;
   margin: 0 auto 24px auto;
   width: 72.46%;
+}
+#logo .body1:nth-of-type(1){
+  margin-bottom: 29px;
 }
 #logo .body2:nth-of-type(1){
   margin-bottom: 29px;
@@ -382,6 +411,11 @@ table .caption{
 #type h2{
   text-align: center;
 }
+#type .body1{
+  margin: 0 auto 32px auto;
+  text-align: left;
+  width: 66.1%;
+}
 #type .body2{
   margin: 0 auto 32px auto;
   text-align: center;
@@ -403,6 +437,11 @@ table .caption{
 #deliver h1{
   color: #FFFFFF;
 }
+#deliver .body1{
+  color: #FFFFFF;
+  margin: 0 auto 40px auto;
+  width: 66.09%;
+}
 #deliver .body2{
   color: #FFFFFF;
   margin-bottom: 32px;
@@ -423,6 +462,11 @@ table .caption{
 #landing div h2{
   display: inline;
   vertical-align: top;
+}
+#landing .body1{
+  text-align: center;
+  margin: 0 auto;
+  width: 72.1%;
 }
 #landing .body2{
   text-align: center;
@@ -448,6 +492,11 @@ table .caption{
   display: inline;
   vertical-align: top;
 }
+#dash .body1{
+  text-align: center;
+  margin: 0 auto;
+  width: 72.1%;
+}
 #dash .body2{
   text-align: center;
   width: 72.1%;
@@ -469,6 +518,11 @@ table .caption{
   display: inline;
   vertical-align: top;
 }
+#modal .body1{
+  text-align: center;
+  margin: 0 auto;
+  width: 72.1%;
+}
 #modal .body2{
   text-align: center;
   width: 72.1%;
@@ -479,60 +533,6 @@ table .caption{
 }
 #conclusion p:nth-of-type(1){
   margin-bottom: 22px;
-}
-#solution .body1{
-  width: 80.83%;
-}
-#stories .body1{
-  margin: 0 auto 24px auto;
-  text-align: center;
-  width: 66.02%;
-}
-#flows .body1{
-  color: #FFFFFF;
-  margin: 0 auto;
-  width: 66.10%;
-}
-#wireframes .body1{
-  margin: 0 auto;
-  padding-bottom: 16px;
-  width: 65.86%;
-}
-#branding .body1{
-  margin: 0 auto 26px auto;
-  text-align: left;
-  width: 66.01%;
-}
-#mood .body1{
-  width: 81.44%;
-}
-#logo .body1:nth-of-type(1){
-  margin-bottom: 29px;
-}
-#type .body1{
-  margin: 0 auto 32px auto;
-  text-align: left;
-  width: 66.1%;
-}
-#deliver .body1{
-  color: #FFFFFF;
-  margin: 0 auto 40px auto;
-  width: 66.09%;
-}
-#landing .body1{
-  text-align: center;
-  margin: 0 auto;
-  width: 72.1%;
-}
-#dash .body1{
-  text-align: center;
-  margin: 0 auto;
-  width: 72.1%;
-}
-#modal .body1{
-  text-align: center;
-  margin: 0 auto;
-  width: 72.1%;
 }
 #conclusion .body1{
   width: 98.34%;

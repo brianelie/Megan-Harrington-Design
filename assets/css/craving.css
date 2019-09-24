@@ -22,6 +22,10 @@
 #userResearch .button:hover{
   color: #FFFFFF;
 }
+/* Competitive Analysis Section */
+#competitive .desktop img{
+  width: 55%;
+}
 /* Flows Section */
 #flows .desktop div{
   display: flex;
@@ -30,13 +34,19 @@
   margin-bottom: 0;
   width: 50%;
 }
+#flows h2, #flows h4{
+  text-align: left;
+}
+#flows .body1{
+  width: 79.71%;
+}
 #flows a{
   color: #FFFFFF;
 }
 #flows div img{
   display: block;
   margin: 0 auto;
-  width: 80%;
+  width: 60%;
 }
 #flows .body1, #flows .body2, #flows li{
   margin-bottom: 26px;
@@ -44,11 +54,19 @@
 #flows ul{
   list-style: inside;
 }
+/* Wireframes Section */
+#wireframes img{
+  margin-top: 32px;
+  width: 70%;
+}
 /* Branding Section */
 #branding .parallaxChild{
   background-image: url("../images/craving/branding.png");
 }
 /* Color Section */
+#color h2{
+  margin-bottom: 24px;
+}
 #color img{
   transform: scale(1);
 }
@@ -67,21 +85,57 @@
   background-image: url("../images/craving/visual_design.png");
 }
 /* Sign Up Page, Dessert Search Page, Restaurant Profile Page */
-#landing ul img,
-#dash ul img,
-#modal ul img{
+#signup h2,
+#dessert h2,
+#restaurant h2,
+#signup h4,
+#dessert h4,
+#restaurant h4{
+  text-align: center;
+}
+#signup h2,
+#dessert h2,
+#restaurant h2{
+  margin-bottom: 48px;
+}
+#signup > img,
+#dessert > img,
+#restaurant > img {
+  margin: 0 auto;
+  display: block;
+  width: 80%;
+}
+#signup ul,
+#dessert ul,
+#restaurant ul{
+  margin: 48px auto 0 auto;
+  width: 80%;
+}
+#signup li,
+#dessert li,
+#restaurant li{
+  display: flex;
+  align-items: center;
+}
+#signup ul img,
+#dessert ul img,
+#restaurant ul img{
+  height: 40px;
   margin-right: 16px;
   vertical-align: middle;
   width: 40px;
 }
-#landing .body1,
-#dash .body1,
-#modal .body1,
-#landing .body2,
-#dash .body2,
-#modal .body2{
+#signup .body1,
+#dessert .body1,
+#restaurant .body1,
+#signup .body2,
+#dessert .body2,
+#restaurant .body2{
   text-align: left;
   margin-bottom: 16px;
+}
+#dessert{
+  background-color: #F7F7F7;
 }
 /* Dessert Quick Search Results */
 /* Restaurant Profile */

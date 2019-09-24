@@ -41,6 +41,10 @@
 	overflow: hidden;
 	width: 68%;
 }
+#about .body1{
+  margin-bottom: 29px;
+  width: 90.77%;
+}
 #about img{
 	margin-left: 10px;
 	margin-top: -27.5%;
@@ -51,10 +55,6 @@
 }
 #about article:last-of-type p{
 	margin-bottom: 0;
-}
-#about .body1{
-  margin-bottom: 29px;
-  width: 90.77%;
 }
 @media screen and (min-width: 600px){
   /* About Page */

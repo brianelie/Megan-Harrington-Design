@@ -49,6 +49,11 @@ img[src="assets/images/index/whitemh.png"]{
   margin: 0 auto 16px auto;
   width: 84.54%
 }
+#cc .body1{
+	color: #282828;
+	margin: 0 auto;
+	width: 75%
+}
 #cc .body2{
   color: #282828;
 	text-align: center;
@@ -71,18 +76,13 @@ img[src="assets/images/index/whitemh.png"]{
   display: block;
   margin: 24px auto 16px auto;
 }
+#personal .body1{
+  width: 89.11%;
+}
 #personal .body2{
   margin: 22px auto;
   text-align: center;
   width: 90%;
-}
-#cc .body1{
-	color: #282828;
-	margin: 0 auto;
-	width: 75%
-}
-#personal .body1{
-  width: 89.11%;
 }
 @media screen and (min-width: 600px){
   /* Home Page */
