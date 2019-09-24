@@ -9,23 +9,23 @@ function alterSize(){
       $('.body2').addClass('body1');
       $('.body1').removeClass('body2');
       if(document.getElementById('football')){
-        document.getElementById('football').src='assets/images/football.png';
-        document.getElementById('house').src='assets/images/house.png';
-        document.getElementById('lightbulb').src='assets/images/lightbulb.png';
-        document.getElementById('pencil').src='assets/images/pencil.png';
-        document.getElementById('computer').src='assets/images/computer.png';
-        document.getElementById('aboutimage').src='assets/images/about_image_desktop.png';
+        document.getElementById('football').src='assets/images/about/football.png';
+        document.getElementById('house').src='assets/images/about/house.png';
+        document.getElementById('lightbulb').src='assets/images/about/lightbulb.png';
+        document.getElementById('pencil').src='assets/images/about/pencil.png';
+        document.getElementById('computer').src='assets/images/about/computer.png';
+        document.getElementById('aboutimage').src='assets/images/about/about_image_desktop.png';
       };
   }else{
       $('.body1').addClass('body2');
       $('.body2').removeClass('body1');
       if(document.getElementById('football')){
-        document.getElementById('football').src='assets/images/football_mobile.png';
-        document.getElementById('house').src='assets/images/house_mobile.png';
-        document.getElementById('lightbulb').src='assets/images/lightbulb_mobile.png';
-        document.getElementById('pencil').src='assets/images/pencil_mobile.png';
-        document.getElementById('computer').src='assets/images/computer_mobile.png';
-        document.getElementById('aboutimage').src='assets/images/about_image_mobile.png';
+        document.getElementById('football').src='assets/images/about/football_mobile.png';
+        document.getElementById('house').src='assets/images/about/house_mobile.png';
+        document.getElementById('lightbulb').src='assets/images/about/lightbulb_mobile.png';
+        document.getElementById('pencil').src='assets/images/about/pencil_mobile.png';
+        document.getElementById('computer').src='assets/images/about/computer_mobile.png';
+        document.getElementById('aboutimage').src='assets/images/about/about_image_mobile.png';
       };
   };
 };

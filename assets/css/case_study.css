@@ -98,7 +98,7 @@
 }
 /* The Challenge */
 #challenge .parallaxChild{
-  background-image: url("../images/challenge_background_mobile.jpg");
+  background-image: url("../images/cloud_collab/challenge_background_mobile.jpg");
 	background-position: center;
 }
 #challenge h1{
@@ -322,7 +322,7 @@ table .caption{
 }
 /* Branding */
 #branding .parallaxChild{
-  background-image: url("../images/branding_background_mobile.jpg");
+  background-image: url("../images/cloud_collab/branding_background_mobile.jpg");
 	background-position: center;
 }
 #branding h1{
@@ -397,7 +397,7 @@ table .caption{
 }
 /* Iterations to Deliverables */
 #deliver .parallaxChild{
-  background-image: url("../images/visual_design_background_mobile.png");
+  background-image: url("../images/cloud_collab/visual_design_background_mobile.png");
 	background-position: center;
 }
 #deliver h1{
@@ -598,7 +598,7 @@ table .caption{
   }
   /* Challenge */
   #challenge .parallaxChild{
-    background-image: url("../images/challenge_background.jpg");
+    background-image: url("../images/cloud_collab/challenge_background.jpg");
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: center;
@@ -692,7 +692,7 @@ table .caption{
   }
   /* Branding */
   #branding .parallaxChild{
-    background-image: url("../images/branding_background.jpg");
+    background-image: url("../images/cloud_collab/branding_background.jpg");
     background-size: cover;
 		display: flex;
 	  flex-flow: column nowrap;
@@ -776,7 +776,7 @@ table .caption{
   }
   /* Iterations to Deliverables */
   #deliver .parallaxChild{
-    background-image: url("../images/visual_design_background.png");
+    background-image: url("../images/cloud_collab/visual_design_background.png");
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: center;
