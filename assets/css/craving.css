@@ -6,7 +6,7 @@
   border-color: #F8CDC4;
 }
 /* Roles Subnavbar */
-#subnav{
+.subnav{
   background-color: #F8CDC4;
 }
 /* Name Section */
@@ -19,43 +19,43 @@
 #challenge .parallaxChild{
   background-image: url("../images/craving/ux_process.png");
 }
-#userResearch .button:hover{
+.userResearch .button:hover{
   color: #FFFFFF;
 }
 /* Competitive Analysis Section */
-#competitive .desktop img{
+.competitive .desktop img{
   width: 55%;
 }
 /* Flows Section */
-#flows .desktop div{
+.flows .desktop div{
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-bottom: 0;
   width: 50%;
 }
-#flows h2, #flows h4{
+.flows h2, .flows h4{
   text-align: left;
 }
-#flows .body1{
+.flows .body1{
   width: 79.71%;
 }
-#flows a{
+.flows a{
   color: #FFFFFF;
 }
-#flows div img{
+.flows div img{
   display: block;
   margin: 0 auto;
   width: 60%;
 }
-#flows .body1, #flows .body2, #flows li{
+.flows .body1, .flows .body2, .flows li{
   margin-bottom: 26px;
 }
-#flows ul{
+.flows ul{
   list-style: inside;
 }
 /* Wireframes Section */
-#wireframes img{
+.wireframes img{
   margin-top: 32px;
   width: 70%;
 }
@@ -64,20 +64,20 @@
   background-image: url("../images/craving/branding.png");
 }
 /* Color Section */
-#color h2{
+.color h2{
   margin-bottom: 24px;
 }
-#color img{
+.color img{
   transform: scale(1);
 }
 /* Typography Section */
-#type{
+.type{
   display: block;
 }
-#type h2,#type h4{
+.type h2,.type h4{
   text-align: center;
 }
-#type img{
+.type img{
   width: 90%;
 }
 /* Visual Design Section */
@@ -85,63 +85,44 @@
   background-image: url("../images/craving/visual_design.png");
 }
 /* Sign Up Page, Dessert Search Page, Restaurant Profile Page */
-#signup h2,
-#dessert h2,
-#restaurant h2,
-#signup h4,
-#dessert h4,
-#restaurant h4{
+.changes h4{
   text-align: center;
 }
-#signup h2,
-#dessert h2,
-#restaurant h2{
+.changes h2{
   margin-bottom: 48px;
+  text-align: center;s
 }
-#signup > img,
-#dessert > img,
-#restaurant > img {
+.changes > img {
   margin: 0 auto;
   display: block;
   width: 80%;
 }
-#signup ul,
-#dessert ul,
-#restaurant ul{
+.changes ul{
   margin: 48px auto 0 auto;
   width: 80%;
 }
-#signup li,
-#dessert li,
-#restaurant li{
+.changes li{
   display: flex;
   align-items: center;
 }
-#signup ul img,
-#dessert ul img,
-#restaurant ul img{
+.changes ul img{
   height: 40px;
   margin-right: 16px;
   vertical-align: middle;
   width: 40px;
 }
-#signup .body1,
-#dessert .body1,
-#restaurant .body1,
-#signup .body2,
-#dessert .body2,
-#restaurant .body2{
+.changes .body2{
   text-align: left;
   margin-bottom: 16px;
 }
-#dessert{
+.dessert{
   background-color: #F7F7F7;
 }
 /* Dessert Quick Search Results */
 /* Restaurant Profile */
 /* Tablet Specifics */
 @media screen and (min-width: 600px){
-  #flows article.desktop{
+  .flows article.desktop{
     display: flex;
   }
 }

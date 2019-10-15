@@ -13,132 +13,132 @@
 }
 /* Universal Settings */
 body{
-  background-color: #FFFFFF;
-  margin: 0;
-  overflow-x: hidden;
-  padding: 0;
-  width: 100%;
+    background-color: #FFFFFF;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+    width: 100%;
 	font-size: 0;
 }
 section{
-  padding: 48px 0;
+    padding: 48px 0;
 }
 h1{
-  color: #282828;
-  display: block;
-  font-family: minerva-modern;
-  font-size: 36px;
-  line-height: 138%;
-  margin: 0 auto 32px auto;
-  text-align: center;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: minerva-modern;
+    font-size: 36px;
+    line-height: 138%;
+    margin: 0 auto 32px auto;
+    text-align: center;
+    width: 79.71%;
 }
 h2{
-  color: #282828;
-  display: block;
-  font-family: minerva-modern;
-  font-size: 32px;
-  font-weight: bold;
-  line-height: 138%;
-  margin: 0 auto 24px auto;
-  text-align: center;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: minerva-modern;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 138%;
+    margin: 0 auto 24px auto;
+    text-align: center;
+    width: 79.71%;
 }
 h3{
-  color: #282828;
-  display: block;
-  font-family: minerva-modern;
-  font-size: 22px;
-  line-height: 138%;
-  margin: 0 auto;
-  text-align: center;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: minerva-modern;
+    font-size: 22px;
+    line-height: 138%;
+    margin: 0 auto;
+    text-align: center;
+    width: 79.71%;
 }
 h4{
-  color: #282828;
-  display: block;
-  font-family: open-sans;
-  font-size: 20px;
-  line-height: 159%;
-  margin: 0 auto;
-  text-align: center;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: open-sans;
+    font-size: 20px;
+    line-height: 159%;
+    margin: 0 auto;
+    text-align: center;
+    width: 79.71%;
 }
 h5{
-  color: #282828;
-  font-family: minerva-modern;
-  font-size: 22px;
-  font-weight: bold;
-  line-height: 30px;
-  margin-top: 20px;
-  text-align: center;
+    color: #282828;
+    font-family: minerva-modern;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-top: 20px;
+    text-align: center;
 }
 img {
-  height: auto;
-  width: 100%;
+    height: auto;
+    width: 100%;
 }
 .button{
-  background-color: #C6EEE2;
-  border: none;
-  border-radius: 5px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  color: #282828;
-  display: block;
-  font-family: minerva-modern;
-  font-size: 20px;
-  font-weight: bold;
-  height: 26px;
-  line-height: 138%;
-  margin: 0 auto;
-  padding: 7px 0;
-  transition: 0.5s color, 0.5s background-color;
-  text-align: center;
-  text-decoration: none;
-  width: 228px;
+    background-color: #C6EEE2;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #282828;
+    display: block;
+    font-family: minerva-modern;
+    font-size: 20px;
+    font-weight: bold;
+    height: 26px;
+    line-height: 138%;
+    margin: 0 auto;
+    padding: 7px 0;
+    transition: 0.5s color, 0.5s background-color;
+    text-align: center;
+    text-decoration: none;
+    width: 228px;
 }
 .button:hover{
-  background-color: #282828;
-  color: #FFFFFF;
+    background-color: #282828;
+    color: #FFFFFF;
 }
 .body1{
-  color: #282828;
-  font-family: open-sans;
-  font-size: 18px;
-  line-height: 145%;
-  text-align: left;
+    color: #282828;
+    font-family: open-sans;
+    font-size: 18px;
+    line-height: 145%;
+    text-align: left;
 }
 .body2{
-  color: #282828;
-  display: block;
-  font-family: open-sans;
-  font-size: 16px;
-  line-height: 137.99%;
-  margin: 0 auto;
-  text-align: left;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: open-sans;
+    font-size: 16px;
+    line-height: 137.99%;
+    margin: 0 auto;
+    text-align: left;
+    width: 79.71%;
 }
 .border{
-  border-bottom: 4px solid #C6EEE2;
+    border-bottom: 4px solid #C6EEE2;
 }
 .caption{
-  color: #282828;
-  display: block;
-  font-family: open-sans;
-  font-size: 12px;
-  line-height: 136%;
-  margin: 0 auto;
-  text-align: center;
-  width: 79.71%;
+    color: #282828;
+    display: block;
+    font-family: open-sans;
+    font-size: 12px;
+    line-height: 136%;
+    margin: 0 auto;
+    text-align: center;
+    width: 79.71%;
 }
 .desktop{
-  display:none;
+    display: none;
 }
 .inline{
-  font-weight: bold;
-  text-decoration: none;
+    font-weight: bold;
+    text-decoration: none;
 }
 .inline:hover{
-  text-decoration: underline;
+    text-decoration: underline;
 }
 .parallaxChild{
 	background-size: cover;
@@ -146,28 +146,28 @@ img {
 }
 /* Animations */
 @keyframes slideinleft{
-	from {
-    transform: translateX(-100%);
-  }
-  to {
-    transform: translateX(0%);
-  }
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
 }
 @keyframes slideinright{
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0%);
-  }
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
 }
 @keyframes size{
-  from {
-    transform: scale(0);
-  }
-  to {
-    transform: scale(1);
-  }
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
 }
 @keyframes slidefromtop{
 	from {
@@ -178,64 +178,64 @@ img {
 	}
 }
 /* Navbar */
-#mainnav {
-  background-color: #757575;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  box-sizing: border-box;
-  height: 56px;
-  padding: 8px 8% 16px 8%;
-  position: static;
-  top: 0;
-  width: 100%;
-  z-index: 300;
+.mainnav {
+    background-color: #757575;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    height: 56px;
+    padding: 8px 8% 16px 8%;
+    position: static;
+    top: 0;
+    width: 100%;
+    z-index: 300;
 }
-#mainnav > a {
-  color: #FFFFFF;
-  display: block;
-  float: right;
-  font-family: open-sans;
-  font-size: 16px;
-  height: 30px;
-  line-height: 219%;
-  text-decoration: none;
+.mainnav a {
+    color: #FFFFFF;
+    display: block;
+    float: right;
+    font-family: open-sans;
+    font-size: 16px;
+    height: 30px;
+    line-height: 219%;
+    text-decoration: none;
 }
-#mainnav > a:nth-child(1) {
-  float: left;
-  width: 170px;
+.mainnav a:nth-child(1) {
+    float: left;
+    width: 170px;
 }
-#mainnav > a:not(:first-child) {
-  display: none;
+.mainnav a:not(:first-child) {
+    display: none;
 }
-#mainnav > a.icon {
-  display: block;
-  float: right;
-  font-size: 32px;
-  line-height: 100%;
-  margin: 0;
-  text-align: center;
+.mainnav a.icon {
+    display: block;
+    float: right;
+    font-size: 32px;
+    line-height: 100%;
+    margin: 0;
+    text-align: center;
 }
-#mainnav.responsive {
-  height: auto;
-  position: relative;
+.mainnav.responsive {
+    height: auto;
+    position: relative;
 }
-#mainnav.responsive > a.icon {
-  padding: 8px 8% 16px 8%;
-  position: absolute;
-  right: 0;
-  text-align: center;
-  top: 0;
+.mainnav.responsive a.icon {
+    padding: 8px 8% 16px 8%;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
 }
-#mainnav.responsive > a {
-  display: block;
-  float: none;
-  text-align: left;
+.mainnav.responsive a {
+    display: block;
+    float: none;
+    text-align: left;
 }
 /* Footer */
-#footer{
-  background-color: #757575;
-  padding: 0;
+footer{
+    background-color: #757575;
+    padding: 0;
 }
-#footer h6{
+footer h6{
 	color: #FFFFFF;
 	font-family: 'amostelysignature';
 	font-size: 42px;
@@ -244,96 +244,98 @@ img {
 	padding-top: 40px;
 	text-align: center;
 }
-#footer p{
-  color: #FFFFFF;
-  text-align: center;
+footer p.body1,
+footer p.body2{
+    color: #FFFFFF;
+    text-align: center;
 }
-#footer .body1{
-  margin: 0 auto;
-  width: 48.71%;
+footer .body1{
+    margin: 0 auto;
+    width: 48.71%;
 }
-#footer div{
-  display: flex;
-  justify-content: space-between;
-  margin: 32px auto 24px auto;
-  max-width: 267px;
-  width: 64.49%;
+footer div{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px auto 24px auto;
+    max-width: 267px;
+    width: 64.49%;
 }
-#footer div a{
-  text-align: center;
-  width: 45px;
+footer div a{
+    text-align: center;
+    width: 45px;
 }
-#footer .caption{
-  padding-bottom: 8px;
+footer .caption{
+    color: #FFFFFF;
+    padding-bottom: 8px;
 }
 /* Tablet Media Query */
 @media screen and (min-width: 600px){
   /* Universal Styles */
-  section{
-    padding: 56px 0;
-  }
-  h1{
-    font-size: 62px;
-    width: 65.94%;
-  }
-  h2{
-    font-size: 32px;
-    text-align: left;
-  }
-  h3{
-    font-size: 28px;
-    text-align: left;
-  }
-  h4{
-    font-size: 20px;
-    text-align: left;
-  }
-  .desktop{
-    display: block;
-  }
-  .mobile{
-    display: none;
-  }
-  .desktop div{
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-  }
-	.parallaxChild{
-		background-attachment: fixed;
-		height: 75vh;
-		padding: 40px 0;
-	}
-  /* Navbar */
-  #mainnav a{
-    text-align: center;
-    width: 11%;
-  }
-  #mainnav a:not(:first-child) {
-    display: block;
-  }
-  #mainnav a.icon {
-    display: none;
-  }
-  .home{
-    margin-left: 0;
-  }
-  /* Footer */
-  #footer div{
-    max-width: auto;
-    width: 20.8%;
-  }
-  #footer .caption{
-    font-size: 14px;
-  }
+    section{
+        padding: 56px 0;
+    }
+    h1{
+        font-size: 62px;
+        width: 65.94%;
+    }
+    h2{
+        font-size: 32px;
+        text-align: left;
+    }
+    h3{
+        font-size: 28px;
+        text-align: left;
+    }
+    h4{
+        font-size: 20px;
+        text-align: left;
+    }
+    .desktop{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+    .desktop div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+    }
+    .parallaxChild{
+        background-attachment: fixed;
+        height: 75vh;
+        padding: 40px 0;
+    }
+    /* Navbar */
+    .mainnav a{
+        text-align: center;
+        width: 11%;
+    }
+    .mainnav a:not(:first-child) {
+        display: block;
+    }
+    .mainnav a.icon {
+        display: none;
+    }
+    .home{
+        margin-left: 0;
+    }
+    /* Footer */
+    footer div{
+        max-width: auto;
+        width: 20.8%;
+    }
+    footer .caption{
+        font-size: 14px;
+    }
 }
 /* Desktop Specific */
 @media screen and (min-width: 1000px){
-  /* Univeral Setting */
-  section.mobile{
-    display: none;
-  }
-  #mainnav a{
-    width: 9.76%;
-  }
+    /* Univeral Setting */
+    section.mobile{
+        display: none;
+    }
+    .mainnav a{
+        width: 9.76%;
+    }
 }
